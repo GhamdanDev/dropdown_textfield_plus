@@ -18,14 +18,17 @@ A powerful, customizable dropdown text field for Flutter with single and multi-s
 - **Controllers** — `SingleValueDropDownController` & `MultiValueDropDownController` with programmatic control and change notification
 - **Tooltips** — Per-item info tooltips in multi-selection mode
 - **Customizable** — Dropdown color, icons, clear button, checkbox properties, submit button, list padding
-
 ---
 
+## Screenshots
+
+| Home | Search |
+|:---:|:---:|
+| ![Home](https://raw.githubusercontent.com/GhamdanDev/dropdown_textfield_plus/master/screenshots/Screenshot_home.jpg) | ![Search](https://raw.githubusercontent.com/GhamdanDev/dropdown_textfield_plus/master/screenshots/Screenshot_searching.jpg) |
 
 ---
 
 ## Installation
-
 ```bash
 flutter pub add dropdown_textfield_plus
 ```

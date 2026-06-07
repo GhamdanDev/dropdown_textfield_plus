@@ -21,11 +21,6 @@ A powerful, customizable dropdown text field for Flutter with single and multi-s
 
 ---
 
-## Screenshots
-
-| Home | Search |
-|:---:|:---:|
-| ![Home](https://raw.githubusercontent.com/ghamdandev/dropdown_textfield_plus/main/screenshots/Screenshot_home.jpg) | ![Search](https://raw.githubusercontent.com/ghamdandev/dropdown_textfield_plus/main/screenshots/Screenshot_searching.jpg) |
 
 ---
 
@@ -491,11 +486,11 @@ These two parameters cannot be combined. Search filtering is only available when
 
 ## Contributing
 
-### [Star the repo if this saved your sprint ⭐](https://github.com/ghamdandev/dropdown_textfield_plus)
+### [Star the repo if this saved your sprint ⭐](https://github.com/GhamdanDev/dropdown_textfield_plus)
 
 Found a bug? (Impossible, it’s an undocumented feature). Want to add something cool? Contributions are always welcome! Please follow these sacred rituals to contribute:
 
-1. Clone the repository (`git clone https://github.com/ghamdandev/dropdown_textfield_plus`)
+1. Clone the repository (`git clone https://github.com/GhamdanDev/dropdown_textfield_plus`)
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)

@@ -1,6 +1,6 @@
 name: dropdown_textfield_plus
 description: "A customizable dropdown text field for Flutter with single/multi-selection, search filtering, tooltips, and Material 3 dark mode support"
-version: 1.0.1
+version: 1.0.0
 homepage: https://github.com/ghamdandev/dropdown_textfield_plus
 repository: https://github.com/ghamdandev/dropdown_textfield_plus
 issue_tracker: https://github.com/ghamdandev/dropdown_textfield_plus/issues

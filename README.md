@@ -21,6 +21,14 @@ A powerful, customizable dropdown text field for Flutter with single and multi-s
 
 ---
 
+## Screenshots
+
+| Home | Search |
+|:---:|:---:|
+| ![Home](https://raw.githubusercontent.com/ghamdandev/dropdown_textfield_plus/main/screenshots/Screenshot_home.jpg) | ![Search](https://raw.githubusercontent.com/ghamdandev/dropdown_textfield_plus/main/screenshots/Screenshot_searching.jpg) |
+
+---
+
 ## Installation
 
 ```bash
